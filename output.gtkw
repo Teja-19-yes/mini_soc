@@ -1,0 +1,62 @@
+[*]
+[*] GTKWave Analyzer v3.3.119 (w)1999-2024 BSI
+[*] Sun Oct 11 13:31:26 2026
+[*]
+[dumpfile] "/home/lab-user/project/Mini_SOC/axi_lite_soc_top.vcd"
+[dumpfile_mtime] "Sun Oct 11 13:25:11 2026"
+[dumpfile_size] 32262
+[savefile] "/home/lab-user/project/Mini_SOC/output.gtkw"
+[timestart] 0
+[size] 1368 577
+[pos] -359 -1
+*-7.973228 15 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 214
+[signals_width] 174
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+tb_axi_lite_soc_top.ACLK
+tb_axi_lite_soc_top.ARESETN
+@420
+tb_axi_lite_soc_top.GPIO
+tb_axi_lite_soc_top.REGS
+tb_axi_lite_soc_top.TIMER
+@22
+tb_axi_lite_soc_top.addr[31:0]
+@28
+tb_axi_lite_soc_top.busy
+tb_axi_lite_soc_top.done
+@420
+tb_axi_lite_soc_top.fail_cnt
+@22
+tb_axi_lite_soc_top.got_data[31:0]
+@28
+tb_axi_lite_soc_top.got_resp[1:0]
+@22
+tb_axi_lite_soc_top.gpio_in[7:0]
+tb_axi_lite_soc_top.gpio_oe[7:0]
+tb_axi_lite_soc_top.gpio_out[7:0]
+@420
+tb_axi_lite_soc_top.pass_cnt
+@22
+tb_axi_lite_soc_top.rdata[31:0]
+tb_axi_lite_soc_top.reg_ctrl_out[31:0]
+tb_axi_lite_soc_top.reg_data_out[31:0]
+@28
+tb_axi_lite_soc_top.resp[1:0]
+tb_axi_lite_soc_top.rw
+tb_axi_lite_soc_top.start
+tb_axi_lite_soc_top.timer_irq
+@22
+tb_axi_lite_soc_top.wdata[31:0]
+@800023
+tb_axi_lite_soc_top.wstrb[3:0]
+@29
+(0)tb_axi_lite_soc_top.wstrb[3:0]
+(1)tb_axi_lite_soc_top.wstrb[3:0]
+(2)tb_axi_lite_soc_top.wstrb[3:0]
+(3)tb_axi_lite_soc_top.wstrb[3:0]
+@1001201
+-group_end
+[pattern_trace] 1
+[pattern_trace] 0

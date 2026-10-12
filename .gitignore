@@ -1,0 +1,6 @@
+sim_*
+*.vcd
+__pycache__/
+*.pyc
+*~
+*.swp
